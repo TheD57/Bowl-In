@@ -1,11 +1,11 @@
 <div align = center>
 
-  <img src="https://codefirst.iut.uca.fr/git/BowlDev/Bowl_in/raw/branch/master/Documentation/Images/Banner-Bowlin.png" />
+  <img src="Documentation/Images/Banner-Bowlin.png" />
     
 </div>
 <div align = center>
 
-[Présentation](#présentation) | [Répartion](#répartition-du-gitlab) | [Fonctionnement](#fonctionnement-&#x1F4D1;) | [Deploiement](#deploiement-&#x1F680;) | [Techniciens](#technicien-en-charge-de-l'application) | [Remerciements](#remerciements-&#x1F44B;) | [Wiki](https://codefirst.iut.uca.fr/git/BowlDev/Bowl_in/wiki)
+[Présentation](#présentation) | [Répartion](#répartition-du-gitlab) | [Fonctionnement](#fonctionnement-) | [Deploiement](#deploiement-) | [Techniciens](#technicien-en-charge-de-lapplication) | [Remerciements](#remerciements-)
 
 ---
 
@@ -13,13 +13,6 @@
 &nbsp; ![Quarkus](https://img.shields.io/badge/Quarkus-000?style=for-the-badge&logo=Quarkus&logoColor=white&color=blue)
 &nbsp; ![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=blue&color=white)
 &nbsp; ![PostgreSQL](https://img.shields.io/badge/Postgresql-000?style=for-the-badge&logo=postgresql&logoColor=white&color=blue)
-</br>
-[![Quality Gate Status](https://codefirst.iut.uca.fr/sonar/api/project_badges/measure?project=Bowl_in&metric=alert_status&token=88dd5f9f10bb02aede7a82a2bccf8c987af1ecab)](https://codefirst.iut.uca.fr/sonar/dashboard?id=Bowl_in)
-[![Duplicated Lines (%)](https://codefirst.iut.uca.fr/sonar/api/project_badges/measure?project=Bowl_in&metric=duplicated_lines_density&token=88dd5f9f10bb02aede7a82a2bccf8c987af1ecab)](https://codefirst.iut.uca.fr/sonar/dashboard?id=Bowl_in)
-[![Security Rating](https://codefirst.iut.uca.fr/sonar/api/project_badges/measure?project=Bowl_in&metric=security_rating&token=88dd5f9f10bb02aede7a82a2bccf8c987af1ecab)](https://codefirst.iut.uca.fr/sonar/dashboard?id=Bowl_in)
-[![Vulnerabilities](https://codefirst.iut.uca.fr/sonar/api/project_badges/measure?project=Bowl_in&metric=vulnerabilities&token=88dd5f9f10bb02aede7a82a2bccf8c987af1ecab)](https://codefirst.iut.uca.fr/sonar/dashboard?id=Bowl_in)
-[![Lines of Code](https://codefirst.iut.uca.fr/sonar/api/project_badges/measure?project=Bowl_in&metric=ncloc&token=88dd5f9f10bb02aede7a82a2bccf8c987af1ecab)](https://codefirst.iut.uca.fr/sonar/dashboard?id=Bowl_in)
-[![Coverage](https://codefirst.iut.uca.fr/sonar/api/project_badges/measure?project=Bowl_in&metric=coverage&token=88dd5f9f10bb02aede7a82a2bccf8c987af1ecab)](https://codefirst.iut.uca.fr/sonar/dashboard?id=Bowl_in)
 
 ---
 
@@ -42,9 +35,9 @@
 
 La racine de notre gitlab est composé de deux dossier essentielles au projet:
 
-[**src**](src) : **Code de l'application**
+[**Sources**](Sources) : **Code de l'application**
 
-[**doc**](doc) : **Regroupe l'entièreté  de la documentation**
+[**Documentation**](Documentation) : **Regroupe l'entièreté  de la documentation**
 
 </br>
 
@@ -121,7 +114,7 @@ Enfin, la dernière et non des moindres, la page **profil** qui regroupe les inf
 - Emre KARTAL : emre.kartal@etu.uca.fr
 - Lucas DELANIER : lucas.delanier@etu.uca.fr
 - Arthur VALIN : arthur.valin@etu.uca.fr
-- David D'ALMEIDA : david.d_almeida@etu.uca.fr
+- David D'ALMEIDA : david.dalmeida02@yahoo.fr
 - Louison PARANT : louison.parant@etu.uca.fr
 
 ## Remerciements &#x1F44B;
